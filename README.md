@@ -21,7 +21,8 @@ apt-get install unison
 ```
 
  * Make a copy of the file "Model.sh" and give it a name to identify which project it is. Examples: "MyProject.sh", "MyClientName.sh" and so on...
- - Note: This file must be in the same directory as the file "GrooVimSync.sh"!
+ - Note I: This file must be in the same directory as the file "GrooVimSync.sh"!
+ - Note II: For different projects use different copies of the file "Model.sh". In that way you can have different settings for different projects easily!
 
  * Set the following attributes according to their descriptions in the "Model.sh" copy:
 
